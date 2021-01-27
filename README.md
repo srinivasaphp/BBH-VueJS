@@ -3,8 +3,6 @@
 # ![BBH APP](./static/rwv-logo.png)
 
 
-Project demo is available at https://www.bbh.com/en-us/
-
 
 ## Getting started
 
